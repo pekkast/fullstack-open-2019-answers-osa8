@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/pekkast/fullstack-open-2019-answers-osa8#readme",
   "dependencies": {
-    "apollo-server": "^2.5.0",
+    "apollo-server": "^2.25.3",
     "graphql": "^14.3.1"
   }
 }
